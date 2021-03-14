@@ -17,7 +17,7 @@ Navigate to demoqa
     Verify that the User is on landing page
     Search for workflow [WorkflowName]
 
-Dasboard page
+Dasboard landing page
     [Tags]    DEBUG
     Ensure that the logo is visible
     Ensure that the page has h5 with text [Elements]
