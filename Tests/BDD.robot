@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       TRA
+Documentation       These tests cover BDD requirement
 Library		        SeleniumLibrary	timeout=60 s
 Resource	../Resources/Settings.robot
 Resource	../Resources/Generic_Commands.robot

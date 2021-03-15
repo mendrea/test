@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       TRA with KDD
+Documentation       These tests cover generic requirement
 Library		        SeleniumLibrary	timeout=60 s
 Resource	../Resources/Settings.robot
 Resource	../Resources/Generic_Commands.robot
